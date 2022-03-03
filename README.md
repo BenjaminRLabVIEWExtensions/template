@@ -17,9 +17,11 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+![GitHub all releases](https://img.shields.io/github/downloads/BenjaminRLabVIEWExtensions/lvshortcut_provider/total?style=for-the-badge)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
+[![Wiki][wiki-shield][wiki-url]
 [![Issues][issues-shield]][issues-url]
 [![Zero-Clause BSD][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -244,10 +246,12 @@ Use this space to list resources you find helpful and would like to give credit 
 [forks-url]: https://github.com/BenjaminRLabVIEWExtensions/template/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/BenjaminRLabVIEWExtensions/template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/BenjaminRLabVIEWExtensions/template?style=for-the-badge
 [issues-url]: https://github.com/BenjaminRLabVIEWExtensions/template/issues
 [license-shield]: https://img.shields.io/badge/LICENSE-Zero--Clause%20BSD-green?style=for-the-badge
 [license-url]: https://github.com/BenjaminRLabVIEWExtensions/template/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/benjaminrouffet/
+[wiki-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[wiki-url]: https://github.com/BenjaminRLabVIEWExtensions/template/wiki
 [product-screenshot]: images/screenshot.png
