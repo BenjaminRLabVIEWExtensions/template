@@ -17,11 +17,11 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![GitHub all releases][release-shield][release-url]
+[![GitHub all releases][release-shield]][release-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Wiki][wiki-shield][wiki-url]
+[![Wiki][wiki-shield]][wiki-url]
 [![Issues][issues-shield]][issues-url]
 [![Zero-Clause BSD][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
