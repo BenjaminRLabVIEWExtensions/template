@@ -238,7 +238,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge&logo=appveyor
 [contributors-url]: https://github.com/BenjaminRLabVIEWExtensions/template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/BenjaminRLabVIEWExtensions/template/network/members
@@ -246,7 +246,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [stars-url]: https://github.com/BenjaminRLabVIEWExtensions/template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/BenjaminRLabVIEWExtensions/template/issues
-[license-shield]: https://img.shields.io/badge/License-Zero--Clause%20BSD-green
+[license-shield]: https://img.shields.io/badge/LICENSE-Zero--Clause%20BSD-green?style=for-the-badge
 [license-url]: https://github.com/BenjaminRLabVIEWExtensions/template/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/benjaminrouffet/
