@@ -254,4 +254,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://www.linkedin.com/in/benjaminrouffet/
 [wiki-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [wiki-url]: https://github.com/BenjaminRLabVIEWExtensions/template/wiki
+[release-shield]: https://img.shields.io/github/downloads/BenjaminRLabVIEWExtensions/lvshortcut_provider/total?style=for-the-badge
+[release-url]: https://github.com/BenjaminRLabVIEWExtensions/template/releases
 [product-screenshot]: images/screenshot.png
